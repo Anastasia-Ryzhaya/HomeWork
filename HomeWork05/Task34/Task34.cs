@@ -7,7 +7,7 @@ int numElem()
     return num;
 }
 
-int[] fillAndPrintArray (int number)
+int[] fillAndPrintArray(int number)
 {
     int[] array = new int[number];
     for (int i = 0; i < array.Length; i++)
